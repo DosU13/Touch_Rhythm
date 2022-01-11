@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Touch Rhythm</string>
+    <string name="song_name">Song name</string>
+    <string name="song_artist">Song artist</string>
+    <string name="select">Select</string>
+    <string name="edit">Edit mode</string>
+    <string name="save_edit">Save</string>
+    <string name="cancel_edit">Cancel</string>
+    <string name="description">description</string>
+    <string name="delete">Delete</string>
+    <string name="export">Export</string>
+    <string name="info_description">What is it?</string>
+    <string name="how_to_use">Press edit mode to enter edit mode, your touches on a square will saved</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
